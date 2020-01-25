@@ -8,3 +8,13 @@ This is my shopping list:
 * bread
 * tomatoes
 * chocolate
+
+```java
+public class MyCat {
+	private String name;
+
+	public MyCat(String name) {
+		this.name = name;
+	}
+}
+```
